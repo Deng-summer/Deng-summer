@@ -10,8 +10,8 @@ I'm a software engineer focused on AI applications, SaaS platforms, and web-to-m
 
 ## Selected work
 
-- **AI document workflow platform** — Worked on document parsing, knowledge retrieval, structured generation, and consistency checks using Next.js, FastAPI, and PostgreSQL. The private team project is represented by an [original public workflow demo](https://github.com/Deng-summer/grounded-document-workflow-demo), not by its company source code.
-- **Connected operations platform** — Worked on mobile-to-cloud data flows, backend APIs, processing pipelines, and a web dashboard for operational analysis.
+- **AI document workflow platform** — Worked on document parsing, knowledge retrieval, structured generation, and consistency checks using Next.js, FastAPI, and PostgreSQL. See the [product case study](https://github.com/Deng-summer/ai-bidding-platform-case-study) and an [original public workflow demo](https://github.com/Deng-summer/grounded-document-workflow-demo).
+- **Connected operations platform** — Worked on mobile-to-cloud data flows, backend APIs, processing pipelines, and a web dashboard for operational analysis. See the [case study](https://github.com/Deng-summer/connected-operations-case-study).
 - **Cross-platform customer app** — Developed React-based mobile experiences for account, journey, location, upload, and reporting workflows.
 
 Some of this work is private or client-owned. I can share an appropriate walkthrough and discuss my specific contributions.
@@ -19,9 +19,10 @@ Some of this work is private or client-owned. I can share an appropriate walkthr
 ## Public samples
 
 - [Grounded document workflow demo](https://github.com/Deng-summer/grounded-document-workflow-demo) — Original FastAPI sample showing retrieval, evidence-linked drafting, and citation checks.
+- [AI bidding platform case study](https://github.com/Deng-summer/ai-bidding-platform-case-study) — Product screenshot, workflow, and deployed login entry; original project source is private.
 - [Bilingual Listen iOS demo](https://github.com/Deng-summer/bilingual-listen-ios-demo) — A SwiftUI listening app prototype with original sample content, simulator screenshots, and a buildable Xcode project.
 - [Connected operations case study](https://github.com/Deng-summer/connected-operations-case-study) — Mobile-to-cloud workflows, SaaS operations, and data review.
-- [Android edge inference case study](https://github.com/Deng-summer/android-edge-inference-case-study) — Android scoring sessions and native vision integration, described without company source code.
+- [Android edge inference case study](https://github.com/Deng-summer/android-edge-inference-case-study) — Android scoring demo video and native vision integration, described without company source code.
 
 ## How I work
 
