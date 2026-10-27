@@ -16,6 +16,11 @@ I'm a software engineer focused on AI applications, SaaS platforms, and web-to-m
 
 Some of this work is private or client-owned. I can share an appropriate walkthrough and discuss my specific contributions.
 
+## Public samples
+
+- [Bilingual Listen iOS demo](https://github.com/Deng-summer/bilingual-listen-ios-demo) — A SwiftUI listening app prototype with original sample content and a buildable Xcode project.
+- [KAWA AI platform case study](https://github.com/Deng-summer/kawaai-platform-case-study) — A personal overview of connected vehicle workflows and my contribution to the frontend and mobile web experience. It contains no company source code.
+
 ## How I work
 
 I start with the real user workflow, define clear boundaries between the app, APIs, data, and AI services, and deliver in reviewable increments. I care about maintainable code, practical documentation, and making complex systems understandable to the people who use them.
