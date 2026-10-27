@@ -19,7 +19,10 @@ Some of this work is private or client-owned. I can share an appropriate walkthr
 ## Public samples
 
 - [Bilingual Listen iOS demo](https://github.com/Deng-summer/bilingual-listen-ios-demo) — A SwiftUI listening app prototype with original sample content and a buildable Xcode project.
-- [KAWA AI platform case study](https://github.com/Deng-summer/kawaai-platform-case-study) — A personal overview of connected vehicle workflows and my contribution to the frontend and mobile web experience. It contains no company source code.
+- [KAWA AI platform case study](https://github.com/Deng-summer/kawaai-platform-case-study) — Connected vehicle, SaaS, and mobile web workflows, with links to the live product and test environments.
+- [KAWA Android scoring & on-device inference](https://github.com/Deng-summer/kawa-android-scoring-edge-inference) — Android scoring sessions and native vision integration, described without company source code.
+
+**Product demos:** [KAWA AI website](https://kawaai.com/) · [SaaS test environment](https://saas-test.kawaai.com/) · [Mobile web test environment](https://app-test.kawaai.com/me) (test environments may require an account or device connection).
 
 ## How I work
 
