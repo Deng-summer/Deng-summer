@@ -20,10 +20,8 @@ Some of this work is private or client-owned. I can share an appropriate walkthr
 
 - [Grounded document workflow demo](https://github.com/Deng-summer/grounded-document-workflow-demo) — Original FastAPI sample showing retrieval, evidence-linked drafting, and citation checks.
 - [Bilingual Listen iOS demo](https://github.com/Deng-summer/bilingual-listen-ios-demo) — A SwiftUI listening app prototype with original sample content, simulator screenshots, and a buildable Xcode project.
-- [KAWA AI platform case study](https://github.com/Deng-summer/kawaai-platform-case-study) — Connected vehicle, SaaS, and mobile web workflows, with links to the live product and test environments.
-- [KAWA Android scoring & on-device inference](https://github.com/Deng-summer/kawa-android-scoring-edge-inference) — Android scoring sessions and native vision integration, described without company source code.
-
-**Product demos:** [KAWA AI website](https://kawaai.com/) · [SaaS test environment](https://saas-test.kawaai.com/) · [Mobile web test environment](https://app-test.kawaai.com/me) (test environments may require an account or device connection).
+- [Connected operations case study](https://github.com/Deng-summer/connected-operations-case-study) — Mobile-to-cloud workflows, SaaS operations, and data review.
+- [Android edge inference case study](https://github.com/Deng-summer/android-edge-inference-case-study) — Android scoring sessions and native vision integration, described without company source code.
 
 ## How I work
 
