@@ -10,7 +10,7 @@ I'm a software engineer focused on AI applications, SaaS platforms, and web-to-m
 
 ## Selected work
 
-- **AI document workflow platform** — Built a system for document parsing, knowledge retrieval, structured generation, and consistency checks using Next.js, FastAPI, and PostgreSQL.
+- **AI document workflow platform** — Worked on document parsing, knowledge retrieval, structured generation, and consistency checks using Next.js, FastAPI, and PostgreSQL. The private team project is represented by an [original public workflow demo](https://github.com/Deng-summer/grounded-document-workflow-demo), not by its company source code.
 - **Connected operations platform** — Worked on mobile-to-cloud data flows, backend APIs, processing pipelines, and a web dashboard for operational analysis.
 - **Cross-platform customer app** — Developed React-based mobile experiences for account, journey, location, upload, and reporting workflows.
 
@@ -18,7 +18,8 @@ Some of this work is private or client-owned. I can share an appropriate walkthr
 
 ## Public samples
 
-- [Bilingual Listen iOS demo](https://github.com/Deng-summer/bilingual-listen-ios-demo) — A SwiftUI listening app prototype with original sample content and a buildable Xcode project.
+- [Grounded document workflow demo](https://github.com/Deng-summer/grounded-document-workflow-demo) — Original FastAPI sample showing retrieval, evidence-linked drafting, and citation checks.
+- [Bilingual Listen iOS demo](https://github.com/Deng-summer/bilingual-listen-ios-demo) — A SwiftUI listening app prototype with original sample content, simulator screenshots, and a buildable Xcode project.
 - [KAWA AI platform case study](https://github.com/Deng-summer/kawaai-platform-case-study) — Connected vehicle, SaaS, and mobile web workflows, with links to the live product and test environments.
 - [KAWA Android scoring & on-device inference](https://github.com/Deng-summer/kawa-android-scoring-edge-inference) — Android scoring sessions and native vision integration, described without company source code.
 
